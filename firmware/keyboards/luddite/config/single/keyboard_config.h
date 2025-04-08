@@ -22,9 +22,9 @@ LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR P
 #include "hardware_config.h"
 #define KEYBOARD_SIDE SINGLE
 
-#define DEVICE_NAME_M                         "LudditeBLE"                          /**< Name of device. Will be included in the advertising data. */
-#define DEVICE_MODEL                        "LudditeBLE_v1"                          /**< Name of device. Will be included in the advertising data. */
-#define MANUFACTURER_NAME                   "di0id"                      /**< Manufacturer. Will be passed to Device Information Service. */
+#define DEVICE_NAME_M                       "k65"                          /**< Name of device. Will be included in the advertising data. */
+#define DEVICE_MODEL                        "k65"                          /**< Name of device. Will be included in the advertising data. */
+#define MANUFACTURER_NAME                   "enryson"                      /**< Manufacturer. Will be passed to Device Information Service. */
 
 
 #define KEYMAP( \
